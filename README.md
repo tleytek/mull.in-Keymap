@@ -1,3 +1,25 @@
 # mull.in-Keymap
 
-This is a 38 key keymap for keyboards that use qmk. The keymap is named after its author/site origin, [mull.in](https://mull.in/2018/03/25/keyboard-improvement-3-layers/). He has a very good layout for a smaller amount of keys which is ideal of low finger travel and efficiency.
+I really like the mull.in keymap and flash it on any keyboard I am using, so here is a repo with a keymap for some keyboards in QMK.
+
+Here are images from mull.in on what his keymap is:
+
+## Base Layer
+
+![mullin base layer](./images/mullin_base_layer.jpg)
+
+## Navigation Layer
+
+![mullin navigation layer](./images/mullin_navigation_layer.jpg)
+
+## Number Layer
+
+![mullin number layer](./images/mullin_number_layer.jpg)
+
+## Symbol Layer
+
+![mullin number layer](./images/mullin_symbol_layer.jpg)
+
+## Function Layer
+
+![mullin function layer](./images/mullin_function_layer.jpg)
