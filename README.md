@@ -2,6 +2,11 @@
 
 I really like the mull.in keymap and flash it on any keyboard I am using, so here is a repo with a keymap for some keyboards in QMK.
 
+To use these keymaps just copy the folder with the name of the keyboard you are using and paste it under the keymaps folder for that keyboard.
+
+Example:
+qmk_firmware/keyboards/"YOUR_KEYBOARD"/keymaps
+
 Here are images from mull.in on what his keymap is:
 
 ## Base Layer
